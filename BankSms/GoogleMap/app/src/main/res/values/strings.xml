@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GoogleMap</string>
+    <string name="api_app">AIzaSyAEknV5Yqw4pKeJ19H942CPXPk0MbPhQmk</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
